@@ -1,6 +1,10 @@
 ## Hi there 👋
-# 👋 Olá, eu sou o [SEU NOME]!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 ![Welcome](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 🌟 Bem-vindo(a) ao meu cantinho no GitHub! Aqui tem um pouco de tudo: projetos legais, códigos malucos, e talvez uma ou duas piadas ruins.
@@ -26,14 +30,6 @@
 
 ---
 
-## 🤓 Fun facts
-
-- 😴 Dorme? Às vezes.
-- 🐱 Prefere gatos.
-- 🔮 Já tentou usar IA pra prever o tempo. Não funcionou.
-- 💡 A melhor hora pra ter uma ideia? 03:47 da manhã.
-
----
 
 ## 📫 Como falar comigo?
 
@@ -43,15 +39,5 @@
 
 ---
 
-> _"Primeiro compila, depois reclama."_ — algum sábio anônimo
 
-🌈 Obrigado por visitar meu perfil! Deixa uma ⭐ nos repositórios se curtir 🤩
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
-</picture>
 
