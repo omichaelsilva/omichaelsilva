@@ -1,46 +1,26 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-##👋 Olá, eu sou [Seu Nome]
+##👋 Olá, eu sou o Michael
 
-Sou desenvolvedor(a) de software com foco em criar soluções eficientes, bem estruturadas e com excelente experiência para o usuário. Atualmente, trabalho com tecnologias modernas para web e backend, sempre buscando evoluir tecnicamente e colaborar em projetos de impacto.
+Sou desenvolvedor de software com foco em criar soluções eficientes, bem estruturadas e com excelente experiência para o usuário. Atualmente, trabalho com tecnologias modernas para web e backend, sempre buscando evoluir tecnicamente e colaborar em projetos de impacto.
 
 ---
 
 ## 💼 Sobre mim
 
-- 🎓 Formação em [Seu Curso] pela [Sua Universidade]
+- 🎓 Formando em Ciência da Computação pela Universidade Federal de Catalão
 - 💼 Experiência com desenvolvimento de software em ambientes ágeis
 - 🔍 Foco em qualidade de código, boas práticas e performance
-- 🌱 Sempre aprendendo: atualmente estudando [Tecnologia/Assunto Atual]
-- 🤝 Aberto(a) a colaborações, freelas e novos desafios
+- 🌱 Sempre aprendendo: atualmente Dedicando-se ao estudo de Java!
+- 🤝 Aberto(a) a colaborações, freelas e novos desafios!
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-**Linguagens & Frameworks**
-- JavaScript / TypeScript
-- React.js, Next.js
-- Node.js, Express
-- Python, Django
-
-**Banco de Dados**
-- PostgreSQL, MongoDB, MySQL
-
-**Outros**
-- Git & GitHub
-- Docker & Docker Compose
-- REST APIs, GraphQL
-- Testes com Jest, Cypress
-
----
-
-## 📈 GitHub Stats
-
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 
 ---
 
