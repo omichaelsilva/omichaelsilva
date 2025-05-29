@@ -35,3 +35,4 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 > “Código limpo é como humor — quando você tem que explicar, não é tão bom.” – Martin Fowler
 
+![snake gif](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
