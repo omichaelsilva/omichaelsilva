@@ -5,7 +5,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
 </picture>
-![Welcome](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 🌟 Bem-vindo(a) ao meu cantinho no GitHub! Aqui tem um pouco de tudo: projetos legais, códigos malucos, e talvez uma ou duas piadas ruins.
 
