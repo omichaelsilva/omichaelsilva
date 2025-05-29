@@ -26,10 +26,10 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 ## 📫 Contato
 
-- 🌐 [seusite.com.br](https://seusite.com.br)
-- 📧 seuemail@exemplo.com
+- 🌐 @FlowofDopamine.com (https://seusite.com.br)
+- 📧 michael.pcsicloud.com@
 - 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 💻 [Portfólio (caso tenha)](https://github.com/seu-usuario)
+- 💻 [Portfólio](https://github.com/seu-usuario)
 
 ---
 
