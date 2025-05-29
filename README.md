@@ -6,10 +6,10 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 ## 💼 Sobre mim
 
-- 🎓 Formando em Ciência da Computação pela Universidade Federal de Catalão
+- 🎓 Graduando em Ciência da Computação pela Universidade Federal de Catalão
 - 💼 Experiência com desenvolvimento de software em ambientes ágeis
 - 🔍 Foco em qualidade de código, boas práticas e performance
-- 🌱 Sempre aprendendo: atualmente Dedicando-se ao estudo de Java!
+- ☕ Sempre aprendendo: atualmente Dedicando-se ao estudo de Java!
 - 🤝 Aberto(a) a colaborações, freelas e novos desafios!
 
 ---
@@ -26,10 +26,10 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 ## 📫 Contato
 
-- 🌐 @FlowofDopamine.com (https://seusite.com.br)
-- 📧 michael.pcsicloud.com@
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 💻 [Portfólio](https://github.com/seu-usuario)
+- 🌐 @FlowofDopamine.com https://www.instagram.com/flowofdopamine/
+- 📧 michael.pcs@icloud.com
+- 💼 LinkedIn (https://www.linkedin.com/in/michael-silva-86380b366)
+- 💻 [Portfólio](Andamento)
 
 ---
 
