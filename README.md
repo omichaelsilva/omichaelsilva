@@ -35,8 +35,6 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 > “Código limpo é como humor — quando você tem que explicar, não é tão bom.” – Martin Fowler
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/snk/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
