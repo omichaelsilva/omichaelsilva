@@ -26,9 +26,9 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 ## 📫 Contato
 
-- 🌐 @FlowofDopamine.com https://www.instagram.com/flowofdopamine/
+- 🌐 [@FlowofDopamine.com]((https://www.instagram.com/flowofdopamine/))
 - 📧 michael.pcs@icloud.com
-- 💼 LinkedIn (https://www.linkedin.com/in/michael-silva-86380b366)
+- 💼 [LinkedIn](https://www.linkedin.com/in/michael-silva-86380b366)
 - 💻 [Portfólio](Andamento)
 
 ---
