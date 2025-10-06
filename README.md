@@ -29,7 +29,7 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 - 🌐 [ꜰʟᴏᴡ ᴏꜰ ʟɪꜰᴇ](https://www.instagram.com/livein.flow/?hl=pt-br)  
 - 📧 michael.pcs@icloud.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-silva-86380b366)
-- 💻 [Portfólio](Andamento)
+- 💻 [Portfólio](https://github.com/omichaelsilva/Portfolio)
 
 ---
 
