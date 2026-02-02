@@ -25,7 +25,6 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 - 📧 michael.pcs@icloud.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-silva-86380b366)
-- 💻 [Portfólio](https://github.com/omichaelsilva/Portfolio)
 
 ---
 
