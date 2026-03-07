@@ -6,7 +6,7 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 ## 💼 Sobre mim
 - 🎓 Graduando em Ciência da Computação pela Universidade Federal de Catalão
-- 🔍 Foco em qualidade de código, boas práticas e performance
+- 🔍 Foco na resolução de problemas reais de uma maneira criativa  boas práticas e performance
 - ☕ Sempre aprendendo: atualmente Dedicando-se ao estudo de Java!
 - 🤝 Aberto(a) a colaborações, freelas e novos desafios!
 ##
