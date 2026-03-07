@@ -20,8 +20,7 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -40,10 +39,6 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
   <img width="12" />
 </div>
 
----
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -52,6 +47,3 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 </picture>
 
 > “Código limpo é como humor — quando você tem que explicar, não é tão bom.” – Martin Fowler
-
-
-
