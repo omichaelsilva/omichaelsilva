@@ -4,6 +4,18 @@
 </div>
 
 
+<h1 align="center">👩‍💻  Michael Silva - Moonnax</h1>
+
+###
+
+<h4 align="center">Ciências da Computação </h4>
+
+###
+
+<h3 align="left">hey there 👋</h3>
+
+###
+
 ## 👋 Olá, eu sou o Michael
 
 Sou desenvolvedor de software com foco em criar soluções eficientes, bem estruturadas e com excelente experiência para o usuário. Atualmente, trabalho com tecnologias modernas para web e backend, sempre buscando evoluir tecnicamente e colaborar em projetos de impacto.
