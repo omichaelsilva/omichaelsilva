@@ -38,12 +38,6 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 ---
 
-## 📫 Contato
-
-
-- 📧 michael.pcs@icloud.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/michael-silva-86380b366)
-
 ---
 
 > “Código limpo é como humor — quando você tem que explicar, não é tão bom.” – Martin Fowler
