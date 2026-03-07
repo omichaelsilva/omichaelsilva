@@ -9,8 +9,6 @@
 
 ###
 
-<h3 align="left">hey there </h3>
-
 ###
 
 ## 👋 Olá, eu sou o Michael
