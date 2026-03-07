@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">Ciências da Computação </h4>
+<h4 align="center">Ciêntista da Computação </h4>
 
 ###
 
