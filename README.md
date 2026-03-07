@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center">👋  Michael Silva </h1>
+<h1 align="center">👨🏽‍💻  Michael Silva </h1>
 
 ###
 
