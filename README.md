@@ -1,3 +1,8 @@
+<div>
+    style="width:100%; transform: rotate(180deg);
+  <img style="100%" weight="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=60&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
 <h1 align="center">👨🏽‍💻  Michael Silva </h1>
 
 <h5 align="center">Ciêntista da Computação </h5>
@@ -41,9 +46,7 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 
 ---
 
-<div>
-  <img style="100%" weight="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=60&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+
 
 > “Código limpo é como humor — quando você tem que explicar, não é tão bom.” – Martin Fowler
 
