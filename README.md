@@ -1,3 +1,9 @@
+<div align="center">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+
 ## 👋 Olá, eu sou o Michael
 
 Sou desenvolvedor de software com foco em criar soluções eficientes, bem estruturadas e com excelente experiência para o usuário. Atualmente, trabalho com tecnologias modernas para web e backend, sempre buscando evoluir tecnicamente e colaborar em projetos de impacto.
