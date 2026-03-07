@@ -1,4 +1,3 @@
-<h1 align="center">👨🏽‍💻  Michael Silva </h1>
 
 
 ## 👋 Olá, eu sou o Michael
