@@ -39,6 +39,7 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
   <img width="12" />
 </div>
 
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake-dark.svg" />
