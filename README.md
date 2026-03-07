@@ -6,18 +6,14 @@
 
 
 ## 👋 Olá, eu sou o Michael
-
 Sou desenvolvedor de software com foco em criar soluções eficientes, bem estruturadas e com excelente experiência para o usuário. Atualmente, trabalho com tecnologias modernas para web e backend, sempre buscando evoluir tecnicamente e colaborar em projetos de impacto.
-
 ##
 
 ## 💼 Sobre mim
-
 - 🎓 Graduando em Ciência da Computação pela Universidade Federal de Catalão
 - 🔍 Foco em qualidade de código, boas práticas e performance
 - ☕ Sempre aprendendo: atualmente Dedicando-se ao estudo de Java!
 - 🤝 Aberto(a) a colaborações, freelas e novos desafios!
-
 ##
 
 ## 🛠️ Tech Stack
