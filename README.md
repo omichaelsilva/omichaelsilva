@@ -1,8 +1,4 @@
-
-
-
 <h1 align="center">👨🏽‍💻  Michael Silva </h1>
-
 
 <h5 align="center">Ciêntista da Computação </h5>
 
