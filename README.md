@@ -1,5 +1,3 @@
-
-
 <h1 align="center">👨🏽‍💻  Michael Silva </h1>
 
 <h5 align="center">Ciêntista da Computação </h5>
@@ -34,11 +32,13 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
+
 ##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> “Código limpo é como humor — quando você tem que explicar, não é tão bom.” – Martin Fowler
+> “Código limpo é como humor — quando você tem que explicar, não é tão bom.”  – Martin Fowler
