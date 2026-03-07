@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center">👩‍💻  Michael Silva - Moonnax</h1>
+<h1 align="center">👋  Michael Silva </h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">hey there 👋</h3>
+<h3 align="left">hey there </h3>
 
 ###
 
