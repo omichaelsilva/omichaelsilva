@@ -9,7 +9,7 @@
 
 Sou desenvolvedor de software com foco em criar soluções eficientes, bem estruturadas e com excelente experiência para o usuário. Atualmente, trabalho com tecnologias modernas para web e backend, sempre buscando evoluir tecnicamente e colaborar em projetos de impacto.
 
----
+##
 
 ## 💼 Sobre mim
 
@@ -18,7 +18,7 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
 - ☕ Sempre aprendendo: atualmente Dedicando-se ao estudo de Java!
 - 🤝 Aberto(a) a colaborações, freelas e novos desafios!
 
----
+##
 
 ## 🛠️ Tech Stack
 
@@ -38,9 +38,7 @@ Sou desenvolvedor de software com foco em criar soluções eficientes, bem estru
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
-
 ##
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
