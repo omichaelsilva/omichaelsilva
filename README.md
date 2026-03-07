@@ -1,7 +1,9 @@
 
 
 ## 👋 Olá, eu sou o Michael
-Tenho interesse especial em desenvolvimento web, automação de sistemas e integração de aplicações, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades em programação. Também valorizo trabalho em equipe, organização de código e desenvolvimento orientado a boas práticas.##
+Tenho interesse especial em desenvolvimento web, automação de sistemas e integração de aplicações, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades em programação. Também valorizo trabalho em equipe, organização de código e desenvolvimento orientado a boas práticas.
+
+##
 
 ## 💼 Sobre mim
 - 🎓 Graduando em Ciência da Computação pela Universidade Federal de Catalão
