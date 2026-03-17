@@ -7,8 +7,8 @@ Tenho interesse especial em desenvolvimento web, automação de sistemas e integ
 
 ## 💼 Sobre mim
 - 🎓 Graduando em Ciência da Computação pela Universidade Federal de Catalão
-- 🔍 Gosto de transformar desafios reais em soluções criativas, funcionais e bem construídas
-- ☕ Sempre aprendendo: atualmente Dedicando-se ao estudo a experiência do Usuário!
+- ☕ Gosto de transformar desafios reais em soluções criativas, funcionais e bem construídas
+- 📚 Em constante evolução, atualmente aprofundando conhecimentos em Experiência do Usuário (UX).
 - 🤝 Aberto para trabalhos, colaborações, freelas e novos desafios!
 ##
 
