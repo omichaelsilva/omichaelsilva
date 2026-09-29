@@ -21,8 +21,6 @@ Tenho interesse especial em desenvolvimento web, automação de sistemas e integ
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
@@ -39,4 +37,4 @@ Tenho interesse especial em desenvolvimento web, automação de sistemas e integ
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/omichaelsilva/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> “Código limpo é como humor — quando você tem que explicar, não é tão bom.”  – Martin Fowler
+> “Código limpo é como humor quando você tem que explicar, não é tão bom.”  – Martin Fowler
